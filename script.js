@@ -1,4 +1,3 @@
-alert("working");
 var attach_all_div;
 var divs;
 var i = 1;
