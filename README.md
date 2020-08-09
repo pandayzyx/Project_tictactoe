@@ -1,6 +1,6 @@
 # Project_tictactoe
 
-This project was created  with Js and Bootstrap.
+This project was created  with vanilla Js.
 
 ## Overview of The Project:
 Ticatactoe web app is a platform where you can play your childhood fav game ticatactoe.
